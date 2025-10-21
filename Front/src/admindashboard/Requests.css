@@ -1,0 +1,22 @@
+.request-table .ant-table {
+  border: 1px solid #e0e0e0; /* Lighter outer border for the table */
+}
+
+.request-table .ant-table th, 
+.request-table .ant-table td {
+  border: 1px solid #d0d0d0; /* Lighter cell borders */
+}
+
+.request-table .ant-table th {
+  background-color: #f7f7f7; /* Light gray background for header */
+  color: #333; /* Darker text color for better contrast */
+}
+
+.request-table .ant-table td {
+  padding: 12px; /* Increased padding for a better look */
+  background-color: #ffffff; /* Keep the cell background white */
+}
+
+.request-table .ant-table tr:hover td {
+  background-color: #f0f0f0; /* Subtle hover effect on rows */
+}

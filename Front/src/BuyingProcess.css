@@ -1,0 +1,91 @@
+/* BuyingProcess.css */
+
+.buying-process-container {
+    padding: 4rem 2rem;
+    background-color: #f5f5f5;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .header-container {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .step-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ff3d00; /* Matches the orange */
+  }
+  
+  .header-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #202020;
+    margin: 1rem 0;
+  }
+  
+  .header-description {
+    font-size: 1rem;
+    color: #666666;
+    line-height: 1.75;
+    margin-bottom: 4rem;
+  }
+  
+  .steps-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .step {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .icon {
+    font-size: 2rem;
+    color: #ff3d00;
+    margin-bottom: 1rem;
+  }
+  
+  .step-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #202020;
+  }
+  
+  .step-description {
+    font-size: 1rem;
+    color: #666666;
+    line-height: 1.5;
+  }
+  
+  /* Platform Go-Live Styling */
+  .platform-go-live {
+    grid-column: span 3;
+    background-color: #ff3d00;
+    color: white;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    text-align: left;
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+  }
+  
+  .go-live-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .go-live-description {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  

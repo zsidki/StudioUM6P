@@ -1,0 +1,29 @@
+.rbc-toolbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.rbc-event {
+  background-color: #f76c6c;
+  border-radius: 5px;
+  color: white;
+}
+
+.rbc-time-view {
+  background-color: #fafafa;
+}
+
+.sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.sidebar h4 {
+  margin-bottom: 10px;
+}
+
+.filter {
+  margin-bottom: 10px;
+}

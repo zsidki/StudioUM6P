@@ -1,0 +1,15 @@
+/* Override Ant Design Menu styles */
+.ant-menu-item-selected {
+    background-color: transparent !important; /* Remove blue background */
+    color: #D4451E !important; /* Ensure selected item text is red */
+  }
+  
+  .ant-menu-item:hover {
+    background-color: #ffffff !important; /* Set hover background color */
+    color: #D4451E !important; /* Ensure hover text color is red */
+  }
+  
+  .ant-menu-item {
+    color: white !important; /* Default text color */
+  }
+  

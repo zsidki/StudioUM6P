@@ -1,0 +1,438 @@
+
+[
+  {
+    "category": "Graphic Design",
+    "services": [
+      {
+        "service": "Logo Design",
+        "description": "Create a unique logo for the university's visual identity.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "7,000 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "12,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Naming",
+        "description": "Develop a distinct name or title for specific projects.",
+        "variations": [
+          {
+            "name": "Standard",
+            "price": "1,500 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "3,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Branding Package",
+        "description": "Establish and maintain the university's visual identity.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "12,000 MAD"
+          },
+          {
+            "name": "Comprehensive",
+            "price": "25,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Print Collateral Design",
+        "description": "Design brochures, flyers, posters, and banners.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "1,200 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "3,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Digital Graphics Design",
+        "description": "Develop visually appealing graphics for online use.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "1,500 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "2,600 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Publication Design",
+        "description": "Create visually engaging layouts and designs for publications.",
+        "variations": [
+          {
+            "name": "Standard",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "4,800 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Infographic Design",
+        "description": "Design informative and visually engaging infographics.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "900 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "1,800 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Presentation Design",
+        "description": "Design captivating PowerPoint or Keynote presentations.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "2,500 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Event Materials Design",
+        "description": "Create event-specific materials such as invitations and programs.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "1,200 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "2,400 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Academic Materials Design",
+        "description": "Develop templates and designs for academic materials.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "1,200 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "3,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Environmental Graphics Design",
+        "description": "Design graphics for campus signage, wayfinding, and wall murals.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "Complex",
+            "price": "5,000 MAD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Video Production",
+    "services": [
+      {
+        "service": "Informative Video",
+        "description": "Produce informative videos on various topics. The production is set to be made inside the Benguerir Campus - If outside an additional fee will be applied.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "9,000 - 15,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "15,000 - 21,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "21,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Promotional Video",
+        "description": "Produce promotional videos for university events and programs.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "10,000 - 18,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "18,000 - 25,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "25,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Documentary Video",
+        "description": "Create in-depth documentary-style videos exploring specific research projects, academic programs, or university initiatives.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "10,000 - 20,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "20,000 - 28,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "28,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Interview Video",
+        "description": "Conduct and film interviews with faculty, staff, students, and alumni for profiles and testimonials.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "9,000 - 14,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "14,000 - 20,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "20,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Institutional Film",
+        "description": "Produce longer films introducing the university's mission, vision, and values.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "15,000 - 30,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "30,000 - 42,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "42,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Best of Video",
+        "description": "Create highlight videos showcasing the university's achievements and successes.",
+        "variations": [
+          {
+            "name": "Short (1-2 min)",
+            "price": "9,000 - 15,000 MAD"
+          },
+          {
+            "name": "Standard (2-4 min)",
+            "price": "15,000 - 21,000 MAD"
+          },
+          {
+            "name": "Extended (4-6 min)",
+            "price": "21,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Studio Renting",
+        "description": "Rental of the studio for podcast or interview videos.",
+        "variations": [
+          {
+            "name": "Half day",
+            "price": "10,000 MAD"
+          },
+          {
+            "name": "Full day",
+            "price": "15,000 MAD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Photography",
+    "services": [
+      {
+        "service": "Event Photography",
+        "description": "Coverage of university events such as graduation ceremonies, seminars, and workshops.",
+        "variations": [
+          {
+            "name": "15 photos",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "25 photos",
+            "price": "4,000 MAD"
+          },
+          {
+            "name": "45 photos",
+            "price": "7,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Campus Facilities Photography",
+        "description": "Photographing campus buildings, classrooms, libraries, and other facilities.",
+        "variations": [
+          {
+            "name": "15 photos",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "25 photos",
+            "price": "4,000 MAD"
+          },
+          {
+            "name": "45 photos",
+            "price": "7,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Faculty and Staff Portraits",
+        "description": "Creating professional headshots and portraits of faculty and staff.",
+        "variations": [
+          {
+            "name": "5 photos",
+            "price": "1,800 MAD"
+          },
+          {
+            "name": "10 photos",
+            "price": "3,000 MAD"
+          },
+          {
+            "name": "15 photos",
+            "price": "5,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Research and Innovation Photography",
+        "description": "Documenting research projects, labs, and innovation initiatives.",
+        "variations": [
+          {
+            "name": "15 photos",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "25 photos",
+            "price": "4,000 MAD"
+          },
+          {
+            "name": "45 photos",
+            "price": "7,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Marketing Materials Photography",
+        "description": "Providing high-quality images for brochures, websites, and promotional materials.",
+        "variations": [
+          {
+            "name": "15 photos",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "25 photos",
+            "price": "4,000 MAD"
+          },
+          {
+            "name": "45 photos",
+            "price": "7,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Publications Photography",
+        "description": "Supplying images for newsletters, magazines, and other publications related to the university.",
+        "variations": [
+          {
+            "name": "15 photos",
+            "price": "2,500 MAD"
+          },
+          {
+            "name": "25 photos",
+            "price": "4,000 MAD"
+          },
+          {
+            "name": "45 photos",
+            "price": "7,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Photography and Image Editing",
+        "description": "Editing and retouching images for use in marketing materials and publications.",
+        "variations": [
+          {
+            "name": "5 photos",
+            "price": "500 MAD/hour"
+          },
+          {
+            "name": "15 photos",
+            "price": "1,800 MAD"
+          },
+          {
+            "name": "30 photos",
+            "price": "3,000 MAD"
+          }
+        ]
+      },
+      {
+        "service": "Virtual Tour Creation",
+        "description": "Offer 360-degree photography and video services to create virtual tours of the campus and its facilities.",
+        "variations": [
+          {
+            "name": "Basic",
+            "price": "5,000 MAD"
+          },
+          {
+            "name": "Intermediate",
+            "price": "7,500 MAD"
+          },
+          {
+            "name": "Comprehensive",
+            "price": "10,000 MAD"
+          }
+        ]
+      }
+    ]
+  }
+]

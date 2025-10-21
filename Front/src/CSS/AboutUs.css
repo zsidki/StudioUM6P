@@ -1,0 +1,516 @@
+
+  .contactUs {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Jost, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .icon, .icon2, .icon3, .icon4, .icon5, .icon6, .icon7, .icon8, .icon9, .icon10 {
+    width: 100%;
+    height: 100%;
+    color: #D4451E; /* Custom red color */
+  }
+  body {
+    background-color: #F2F2F2; /* Light gray background */
+    padding: 0;
+    margin-right: 20px; /* Add 20px space to the right */
+    transform: scale(0.66); /* Reduces everything to 85% of its original size */
+    transform-origin: top left; /* Ensures the scaling happens from the top-left corner */
+    overflow-x: hidden; /* To avoid horizontal scroll */
+    font-family: Jost, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  }
+  .container {
+    max-width: 1200px; /* Control the width of your content */
+    margin: 0 auto; /* Center content in the middle of the screen */
+  }
+  .activeReviews {
+    color: #D4451E;
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1228px;
+    top: 1766px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  ._1500 {
+    color: #403f3f;
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: bold;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.11em;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1229px;
+    top: 1723px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  ._247CallServicesAvailable {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1027px;
+    top: 1527px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .greatSkilledConsultant {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1027px;
+    top: 1564px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .expertTeamMembers {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1027px;
+    top: 1604px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .reasonableProjectPrice {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1027px;
+    top: 1642px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .group {
+    position: absolute;
+    left: 993px;
+    top: 1537px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon {
+    width: 100%;
+    height: 100%;
+  }
+  .group2 {
+    position: absolute;
+    left: 993px;
+    top: 1575px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon2 {
+    width: 100%;
+    height: 100%;
+  }
+  .group3 {
+    position: absolute;
+    left: 993px;
+    top: 1613px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon3 {
+    width: 100%;
+    height: 100%;
+  }
+  .group4 {
+    position: absolute;
+    left: 993px;
+    top: 1651px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon4 {
+    width: 100%;
+    height: 100%;
+  }
+  .leadingBusinessSolution {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1450px;
+    top: 1527px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .businessIsTheBestPlan {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1450px;
+    top: 1564px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .howToImproveBusiness {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1450px;
+    top: 1604px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .servicesWeProvide {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1450px;
+    top: 1642px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .group5 {
+    position: absolute;
+    left: 1416px;
+    top: 1537px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon5 {
+    width: 100%;
+    height: 100%;
+  }
+  .group6 {
+    position: absolute;
+    left: 1416px;
+    top: 1575px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon6 {
+    width: 100%;
+    height: 100%;
+  }
+  .group7 {
+    position: absolute;
+    left: 1416px;
+    top: 1613px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon7 {
+    width: 100%;
+    height: 100%;
+  }
+  .group8 {
+    position: absolute;
+    left: 1416px;
+    top: 1651px;
+    width: 21.0012px;
+    height: 21.0018px;
+    overflow: visible;
+  }
+  .icon8 {
+    width: 100%;
+    height: 100%;
+  }
+  .rectangle114 {
+    position: absolute;
+    left: 263px;
+    top: 1140px;
+    width: 585px;
+    height: 701px;
+    border-radius: 10px;
+    background-image:/* webpackIgnore: true */ url('assets/rectangle114.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .vector6 {
+    position: absolute;
+    left: 747px;
+    top: 165px;
+    width: 146px;
+    height: 127px;
+    overflow: visible;
+  }
+  .icon9 {
+    width: 100%;
+    height: 100%;
+  }
+  .button {
+    position: absolute;
+    left: 1227px;
+    top: 1734px;
+    width: min-content;
+    height: min-content;
+    padding: 15px 45px;
+    border-radius: 12px;
+    background-color: #D4451E;
+  }
+  .contactUs {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Jost, system-ui, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .rectangle113 {
+    position: absolute;
+    left: 94px;
+    top: 1435px;
+    width: 374px;
+    height: 222px;
+    border-radius: 10px;
+    background-image:/* webpackIgnore: true */ url('assets/rectangle113.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .vector7 {
+    position: absolute;
+    left: 846px;
+    top: 1779px;
+    width: 47px;
+    height: 25px;
+    overflow: visible;
+  }
+  .icon10 {
+    width: 100%;
+    height: 100%;
+  }
+  .loremIpsumDolorSitAmetConsecte {
+    color: #403f3f;
+    font-size: 19px;
+    line-height: 40px;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: capitalize;
+    position: absolute;
+    left: 1024px;
+    top: 1375px;
+    width: 815px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .theMostLeadingSolutionForYou {
+    position: absolute;
+    left: 991px;
+    top: 1175px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .textBlock {
+    color: #000;
+    font-size: 71px;
+    line-height: 81px;
+    font-weight: bold;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: uppercase;
+  }
+  .textBlock2 {
+    margin-top: 0;
+  }
+  .labelWrapper {
+    font-size: 57px;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    flex-shrink: 1;
+  }
+  .label {
+    color: #000;
+    font-size: 57px;
+    line-height: 81px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: uppercase;
+  }
+  .label2 {
+    color: #000;
+    font-size: 71px;
+    line-height: 81px;
+    font-weight: 600;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    text-transform: uppercase;
+  }
+  .easyBusinessSolution {
+    color: #000;
+    font-size: 23px;
+    line-height: 70px;
+    font-family: Red Hat Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: 0.32em;
+    text-transform: capitalize;
+    position: absolute;
+    left: 991px;
+    top: 1113px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .rectangle115 {
+    position: absolute;
+    left: 993px;
+    top: 1379px;
+    width: 7px;
+    height: 111px;
+    border-radius: 9px;
+    background-color: #D4451E;
+  }
+  .ellipse48 {
+    position: absolute;
+    left: 1114px;
+    top: 1730px;
+    width: 80px;
+    height: 80px;
+    overflow: visible;
+  }
+  .icon11 {
+    width: 100%;
+    height: 100%;
+  }
+  .ellipse49 {
+    position: absolute;
+    left: 1066px;
+    top: 1730px;
+    width: 80px;
+    height: 80px;
+    overflow: visible;
+  }
+  .icon12 {
+    width: 100%;
+    height: 100%;
+  }
+  .ellipse50 {
+    position: absolute;
+    left: 1018px;
+    top: 1730px;
+    width: 80px;
+    height: 80px;
+    overflow: visible;
+  }
+  .icon13 {
+    width: 100%;
+    height: 100%;
+  }
+  .image55 {
+    position: absolute;
+    left: 731px;
+    top: 1670px;
+    width: 180px;
+    height: 86px;
+    background-image:/* webpackIgnore: true */ url('assets/UMM.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  @media (max-width: 480px) {
+    .container {
+      width: 100%;
+    }
+  
+    .button {
+      width: 90%;
+    }
+  
+    .contactUs {
+      font-size: 16px;
+    }
+  
+    .icon, .icon2, .icon3, .icon4, .icon5, .icon6, .icon7, .icon8, .icon9, .icon10 {
+      width: 25px; /* Resize icons for smaller screens */
+      height: 25px;
+    }
+  
+    .textBlock, .labelWrapper {
+      font-size: 28px;
+    }
+  
+    ._247CallServicesAvailable, .greatSkilledConsultant, .expertTeamMembers, .reasonableProjectPrice {
+      font-size: 14px;
+    }
+  }

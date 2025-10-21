@@ -1,0 +1,47 @@
+/* styles.css */
+.service-card {
+    position: relative;
+    padding: 16px;
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px; /* Add rounded corners */
+}
+
+.service-card:hover {
+    background-color: #f7fafc; /* Lighter gray background on hover */
+    border: 2px solid #D4451E; /* Custom red border on hover */
+}
+
+.service-card.selected {
+    border: 2px solid #D4451E; /* Custom red border when selected */
+}
+
+.title {
+    text-align: center;
+}
+
+.service-card-content {
+    padding: 16px; /* Ensure padding on the content itself */
+}
+
+.service-card:hover {
+    background-color: #f7fafc; /* Change to your desired hover color */
+}
+
+.text-custom-red {
+    color: #D4451E; /* Custom red color */
+}
+
+input[type="text"] {
+    border-radius: 8px; /* Add rounded corners to the search bar */
+}
+
+input[type="text"]:focus {
+    border-color: #D4451E; /* Focus border color */
+    box-shadow: 0 0 5px rgba(212, 69, 30, 0.5); /* Add a subtle shadow for focus */
+}
+
+/* Optional: Adjust the input placeholder color for better visibility */
+input::placeholder {
+    color: rgba(0, 0, 0, 0.6); /* Lighter placeholder text color */
+}

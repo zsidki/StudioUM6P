@@ -1,0 +1,33 @@
+/* Override Ant Design Menu styles */
+.ant-menu-item-selected {
+    background-color: transparent !important; /* Remove blue background */
+    color: #D4451E !important; /* Ensure selected item text is red */
+  }
+  
+  .ant-menu-item:hover {
+    background-color: #ffffff !important; /* Set hover background color */
+    color: #D4451E !important; /* Ensure hover text color is red */
+  }
+  
+  .ant-menu-item {
+    color: white !important; /* Default text color */
+  }
+  
+/* Ensure that the HTML, body, and root take the full height */
+html, body, #root {
+  height: 100%;
+  margin: 0; /* Remove default margin */
+}
+
+/* Style for the layout to ensure it occupies the full viewport height */
+
+
+/* Ensure the sidebar takes the full height */
+.ant-layout-sider {
+  height: 100vh; /* Sidebar height should be 100% of the viewport */
+}
+/* Add this to your CSS to ensure the layout behaves responsively */
+.ant-layout {
+  display: flex; /* Use Flexbox for layout */
+  min-height: 100vh; /* Full height */
+}
