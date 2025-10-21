@@ -1,0 +1,22 @@
+# Build & IDE
+/BackEnd_SpringBoot/target/
+/BackEnd_SpringBoot/.mvn/
+/BackEnd_SpringBoot/.idea/
+/Front/node_modules/
+/Front/.next/
+/Front/dist/
+*.class
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+*.env
+*.pem
+*.key
+*.p12
+*service-account*.json
+firebase-service-account.json
